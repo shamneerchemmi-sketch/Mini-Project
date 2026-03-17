@@ -1,2 +1,3 @@
 # Mini-Project
-This mini project focuses on applying real-world data analysis techniques by utilizing Microsoft Excel for data cleaning and transformation, and Microsoft Power BI for creating interactive visualizations and insightful reports.
+This mini project analyzes major health indicators across India using Microsoft Excel for data cleaning and Microsoft Power BI for visualization and insights.
+Data obtained from Data.gov.in
